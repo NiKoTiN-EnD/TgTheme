@@ -1,3 +1,4 @@
+
 windowBg: #111111;
 windowFg: #c4c4c4;
 windowBgOver: #161616;
@@ -215,8 +216,8 @@ msgInBg: #232323;
 msgInBgSelected: #1F1F1F;
 msgOutBg: #0f0f0f;
 msgOutBgSelected: #1F1F1F;
-msgSelectOverlay: #358cd44c;
-msgStickerOverlay: #358cd47f;
+msgSelectOverlay: #912f104c;
+msgStickerOverlay: #912f107f;
 msgInServiceFg: windowActiveTextFg;
 msgInServiceFgSelected: windowActiveTextFg;
 msgOutServiceFg: #ffffff; // name in messages
@@ -225,8 +226,8 @@ msgInShadow: #111111;
 msgInShadowSelected: #111111;
 msgOutShadow: #111111;
 msgOutShadowSelected: #111111;
-msgInDateFg: #912f10;
-msgInDateFgSelected: #912f10;
+msgInDateFg: #c3380d;
+msgInDateFgSelected: #c3380d;
 msgOutDateFg: #912f10;
 msgOutDateFgSelected: #912f10;
 msgServiceFg: windowFgActive;
