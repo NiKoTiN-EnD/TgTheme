@@ -1,4 +1,3 @@
-
 windowBg: #111111;
 windowFg: #c4c4c4;
 windowBgOver: #161616;
@@ -141,7 +140,7 @@ dialogsVerifiedIconBgOver: dialogsVerifiedIconBg;
 dialogsVerifiedIconFgOver: dialogsVerifiedIconFg;
 dialogsSendingIconFgOver: dialogsSendingIconFg;
 dialogsSentIconFgOver: dialogsSentIconFg;
-dialogsUnreadBgOver: dialogsUnreadBg;
+dialogsUnreadBgOver: #b13711;
 dialogsUnreadBgMutedOver: dialogsUnreadBgMuted;
 dialogsUnreadFgOver: dialogsUnreadFg;
 dialogsBgActive: #912f10;
