@@ -213,7 +213,7 @@ historyScrollBg: #212e3f4c;
 historyScrollBgOver: #212e3f6b;
 msgInBg: #232323;
 msgInBgSelected: #1F1F1F;
-msgOutBg: #111111;
+msgOutBg: #0f0f0f;
 msgOutBgSelected: #1F1F1F;
 msgSelectOverlay: #358cd44c;
 msgStickerOverlay: #358cd47f;
